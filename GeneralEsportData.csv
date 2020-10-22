@@ -1,0 +1,504 @@
+"Game","ReleaseDate","Genre","TotalEarnings","OnlineEarnings","TotalPlayers","TotalTournaments"
+"Age of Empires","1997","Strategy",190075.61,33235.72,246,95
+"Age of Empires II","1999","Strategy",1492489.51,875159.64,956,576
+"Age of Empires III","2005","Strategy",68113.85,26613.85,106,76
+"Age of Empires Online","2011","Strategy",2668,2668,16,7
+"Age of Mythology","2002","Strategy",52360,360,22,6
+"Among Us","2018","Strategy",11000,11000,5,2
+"Auto Chess","2019","Strategy",1076322.28,40800,72,6
+"Brawl Stars","2018","Strategy",94950,8700,51,10
+"Chess.com","2007","Strategy",921390.96,921390.96,614,164
+"chess24","2014","Strategy",1084696.09,1084696.09,60,9
+"Clash of Clans","2012","Strategy",766546.87,0,77,6
+"Clash Royale","2016","Strategy",3319748.27,170109.29,287,50
+"Command & Conquer 3","2007","Strategy",53086.67,0,9,8
+"Company of Heroes 2","2013","Strategy",8561.22,605,11,6
+"ComPet","2016","Strategy",2000,2000,50,1
+"Dead By Daylight","2016","Strategy",15000,15000,15,3
+"Dota Underlords","2019","Strategy",26024.18,26024.18,62,36
+"Endgods","2015","Strategy",0,0,0,0
+"Farming Simulator 19","2018","Strategy",158361.3,38915.49,84,12
+"Grey Goo","2015","Strategy",36400,6000,18,5
+"Internet Chess Club","1995","Strategy",10000,10000,6,1
+"Iron Harvest","2020","Strategy",0,0,0,0
+"Lichess","2010","Strategy",824288.91,824288.91,187,70
+"Multigaming","2000","Strategy",148384.33,0,19,3
+"osu!","2007","Strategy",23100,23100,971,7
+"Playchess.com","2002","Strategy",32866.58,32866.58,116,9
+"Pokémon VGC","2017","Strategy",211500,0,170,24
+"Prophecy","2020","Strategy",13000,13000,27,4
+"Rise of Nations: Rise of Legends","2006","Strategy",69600,0,8,1
+"Sea of Thieves","2016","Strategy",0,0,0,0
+"StarCraft II","2010","Strategy",33905568.16,5037602.83,2078,5904
+"StarCraft: Brood War","1998","Strategy",8251181.43,320362.11,674,571
+"Super Mario Party","2018","Strategy",220,0,4,1
+"Supreme Commander","2007","Strategy",4901.26,0,0,1
+"Supreme Commander: Forged Alliance","2007","Strategy",1290.01,0,0,1
+"Teamfight Tactics","2019","Strategy",819313.65,584063.65,159,15
+"TEPPEN","2019","Strategy",456721.47,0,12,1
+"UNO","2016","Strategy",20000,20000,16,2
+"WarCraft III","2002","Strategy",5811479.73,772608.87,558,1335
+"WarCraft III: Reforged","2020","Strategy",314925.29,95589.45,77,61
+"Warhammer 40,000: Dawn of War","2005","Strategy",79816.5,0,7,3
+"Warhammer 40,000: Dawn of War II","2009","Strategy",0,0,0,0
+"Warparty","2019","Strategy",1000,1000,4,1
+"Windjammers","1994","Strategy",4172.16,40,32,11
+"World in Conflict","2007","Strategy",293338.23,0,38,11
+"World of Tanks","2010","Strategy",3656496.59,58464.87,403,50
+"World of Tanks Blitz","2016","Strategy",63330,3330,14,6
+"Aliens versus Predator 2","2001","First-Person Shooter",40000,0,1,1
+"Battalion 1944","2018","First-Person Shooter",185654.67,55790.79,114,21
+"Battlefield 1","2016","First-Person Shooter",0,0,0,0
+"Battlefield 2","2005","First-Person Shooter",91715.22,0,0,12
+"Battlefield 2142","2006","First-Person Shooter",18546.14,0,0,4
+"Battlefield 3","2011","First-Person Shooter",25407.46,0,5,7
+"Battlefield 4","2013","First-Person Shooter",245766.46,33226.15,204,145
+"Battlefield 5","2018","First-Person Shooter",0,0,0,0
+"Battlefield Hardline","2015","First-Person Shooter",13463.28,0,20,1
+"Beat Aim","2019","First-Person Shooter",430,430,12,6
+"Big Buck Hunter Arcade","2016","First-Person Shooter",76200,0,3,1
+"Black Squad","2017","First-Person Shooter",8480.72,8480.72,57,17
+"Borderlands 3","2019","First-Person Shooter",50000,50000,16,1
+"Call of Duty","2003","First-Person Shooter",50629.77,0,51,3
+"Call of Duty 2","2005","First-Person Shooter",66828.51,5953.8,41,17
+"Call of Duty 4: Modern Warfare","2007","First-Person Shooter",420331.47,32402.16,422,86
+"Call of Duty: Advanced Warfare","2014","First-Person Shooter",2608808.93,344172.79,783,404
+"Call of Duty: Black Ops","2010","First-Person Shooter",375793.48,28824.3,118,23
+"Call of Duty: Black Ops 2","2012","First-Person Shooter",1467139.25,37067.62,184,53
+"Call of Duty: Black Ops 4","2018","First-Person Shooter",6701938.95,65777,376,66
+"Call of Duty: Black Ops III","2015","First-Person Shooter",3939783.29,156706.27,420,78
+"Call of Duty: Blackout","2018","First-Person Shooter",611608.35,290600,175,18
+"Call of Duty: Ghosts","2013","First-Person Shooter",1594185.25,89712.36,199,76
+"Call of Duty: Infinite Warfare","2016","First-Person Shooter",4156205.06,106350,341,80
+"Call of Duty: Mobile","2019","First-Person Shooter",0,0,0,0
+"Call of Duty: Modern Warfare","2019","First-Person Shooter",6592284.5,5948722,255,44
+"Call of Duty: Modern Warfare 2","2009","First-Person Shooter",112860.64,61850,59,18
+"Call of Duty: Modern Warfare 3","2011","First-Person Shooter",1160815.66,15860,209,45
+"Call of Duty: Warzone","2020","First-Person Shooter",1896488.96,1896488.96,471,77
+"Call of Duty: World War II","2017","First-Person Shooter",4559271,60666,266,64
+"Counter-Strike","2000","First-Person Shooter",13494229.57,713229.74,4137,995
+"Counter-Strike Online","2016","First-Person Shooter",406989.6,0,70,12
+"Counter-Strike: Condition Zero","2004","First-Person Shooter",162150.6,0,111,3
+"Counter-Strike: Global Offensive","2012","First-Person Shooter",102474261.25,27473570.02,13032,5252
+"Counter-Strike: Source","2004","First-Person Shooter",3117222.29,240456.26,1502,333
+"Critical Ops","2015","First-Person Shooter",12606.41,10106.41,4,3
+"CrossFire","2007","First-Person Shooter",6448845.02,572535.79,629,306
+"Crysis","2007","First-Person Shooter",11340.95,0,0,2
+"Day of Defeat","2003","First-Person Shooter",50300,0,37,3
+"Day of Defeat: Source","2005","First-Person Shooter",14068.57,3782.1,50,8
+"Descent 3","1999","First-Person Shooter",50000,0,1,1
+"Diabotical","2020","First-Person Shooter",32900.19,27793.6,111,31
+"Doom (2016)","2016","First-Person Shooter",7000,0,6,1
+"Doom 3","2004","First-Person Shooter",257748.16,0,14,4
+"Doom II: Hell on Earth","1994","First-Person Shooter",1000,0,1,2
+"Echo Arena","2017","First-Person Shooter",0,0,0,0
+"Enemy Territory: Quake Wars","2007","First-Person Shooter",60923.12,0,27,4
+"Escape from Tarkov","2020","First-Person Shooter",54600,54600,96,2
+"Evolve","2015","First-Person Shooter",131509.05,5454.95,110,33
+"F.E.A.R.","2005","First-Person Shooter",178000,0,20,5
+"Ghost Recon Advanced Warfighter","2006","First-Person Shooter",24000,0,0,2
+"Gray Basin","2015","First-Person Shooter",0,0,0,0
+"Gundam Versus","2017","First-Person Shooter",280,0,6,1
+"Guns of Boom","2017","First-Person Shooter",198750,8750,8,21
+"Halo 2","2004","First-Person Shooter",1489362.47,0,119,71
+"Halo 2 Anniversary","2014","First-Person Shooter",468705.05,0,97,20
+"Halo 3","2007","First-Person Shooter",2158079.4,6600,210,41
+"Halo 4","2012","First-Person Shooter",430748.76,2250,66,19
+"Halo 5: Guardians","2015","First-Person Shooter",7071480.97,288800,233,75
+"Halo: Combat Evolved","2001","First-Person Shooter",299281,0,114,39
+"Halo: Infinite","2020","First-Person Shooter",0,0,0,0
+"Halo: Reach","2010","First-Person Shooter",822089.97,60000,101,29
+"Ironsight","2018","First-Person Shooter",0,0,0,0
+"Islands of Nyne","2017","First-Person Shooter",0,0,0,0
+"MechWarrior Online","2013","First-Person Shooter",143490,0,0,1
+"Metal Gear Online","2008","First-Person Shooter",8000,8000,37,8
+"Overwatch","2016","First-Person Shooter",26049333.28,7822852.83,3494,743
+"Painkiller","2004","First-Person Shooter",1015000,0,48,13
+"Paladins","2015","First-Person Shooter",2136366.6,477366.6,575,67
+"Point Blank","2008","First-Person Shooter",699167.75,109269.6,297,32
+"Quake 4","2005","First-Person Shooter",556678.51,1890,100,52
+"Quake Champions","2017","First-Person Shooter",2409118.25,288631.13,250,239
+"Quake II","1997","First-Person Shooter",140179.5,379.5,32,10
+"Quake III Arena","1999","First-Person Shooter",1137832.19,6569.58,243,100
+"Quake Live","2010","First-Person Shooter",682294.04,82321.11,213,410
+"QuakeWorld","1996","First-Person Shooter",103251.7,5246.26,47,15
+"Rage","2011","First-Person Shooter",5000,0,3,1
+"Rainbow Six Siege","2015","First-Person Shooter",12214525.74,2227312.61,1552,228
+"Rainbow Six: Vegas","2006","First-Person Shooter",176400.77,0,137,7
+"Rainbow Six: Vegas 2","2008","First-Person Shooter",79000,0,0,8
+"Realm Royale","2018","First-Person Shooter",263000,263000,47,9
+"Reflex","2015","First-Person Shooter",2158.4,1994.74,21,7
+"Return to Castle Wolfenstein","2001","First-Person Shooter",67424.3,0,30,3
+"S.K.I.L.L. - Special Force 2","2013","First-Person Shooter",132532.93,15977.12,82,21
+"S.T.A.L.K.E.R.: Shadow of Chernobyl","2007","First-Person Shooter",4901.26,0,0,1
+"Shadowrun","2007","First-Person Shooter",24000,0,0,3
+"ShootMania Storm","2013","First-Person Shooter",261687.04,3400.54,80,40
+"Special Force","2004","First-Person Shooter",130250,0,0,3
+"Splatoon","2015","First-Person Shooter",1390,1390,3,4
+"Splatoon 2","2017","First-Person Shooter",10055,300,13,7
+"Star Wars Jedi Knight II: Jedi Outcast","2002","First-Person Shooter",7679.25,0,0,1
+"Sudden Attack","2005","First-Person Shooter",0,0,0,0
+"Team Fortress 2","2007","First-Person Shooter",718078.81,324271.61,1364,197
+"Uncharted 4: A Thief's End","2016","First-Person Shooter",46235.07,0,5,1
+"Unreal Tournament","1999","First-Person Shooter",89000,0,14,5
+"Unreal Tournament (2016)","2016","First-Person Shooter",5084.97,5084.97,82,8
+"Unreal Tournament 2003","2002","First-Person Shooter",147473.91,0,33,14
+"Unreal Tournament 2004","2004","First-Person Shooter",133969.33,0,41,12
+"Unreal Tournament 3","2007","First-Person Shooter",104977.82,0,7,4
+"VALORANT","2020","First-Person Shooter",1272788.03,1252652.03,1662,247
+"Warface","2013","First-Person Shooter",109555,0,32,2
+"Warsow","2012","First-Person Shooter",183,183,2,1
+"Wolfenstein: Enemy Territory","2003","First-Person Shooter",140963.24,2586.37,152,18
+"Xonotic","2010","First-Person Shooter",5489.65,5463.58,133,25
+"Zula","2015","First-Person Shooter",1e+05,0,20,1
+"Arena of Valor","2015","Multiplayer Online Battle Arena",15228710.62,629000,558,51
+"Battlerite","2016","Multiplayer Online Battle Arena",65173.45,37173.45,86,75
+"Bloodline Champions","2011","Multiplayer Online Battle Arena",41905.32,1055.32,43,12
+"Creative Destruction","2018","Multiplayer Online Battle Arena",1e+05,1e+05,8,1
+"Defense of the Ancients","2003","Multiplayer Online Battle Arena",857420.65,27761.97,468,94
+"Dofus","2004","Multiplayer Online Battle Arena",0,0,0,0
+"Dota 2","2013","Multiplayer Online Battle Arena",227409904.51,13903216.19,3836,1433
+"Heavy Metal Machines","2017","Multiplayer Online Battle Arena",12339.33,12339.33,35,1
+"Heroes of Newerth","2010","Multiplayer Online Battle Arena",2915206.56,1362316.55,813,371
+"Heroes of the Storm","2015","Multiplayer Online Battle Arena",18177982.65,3981566.7,1250,463
+"Hyper Scape","2020","Multiplayer Online Battle Arena",299000,299000,260,4
+"League of Legends","2009","Multiplayer Online Battle Arena",79003448.94,7387521.06,7130,2477
+"Legend of Glory","2015","Multiplayer Online Battle Arena",472.66,472.66,0,1
+"Minecraft","2011","Multiplayer Online Battle Arena",279539.15,279539.15,81,14
+"MOBA Legends","2016","Multiplayer Online Battle Arena",225,225,3,1
+"Mobile Legends: Bang Bang","2016","Multiplayer Online Battle Arena",0,0,0,0
+"Shards of War","2015","Multiplayer Online Battle Arena",1029.21,1029.21,20,1
+"SMITE","2014","Multiplayer Online Battle Arena",8640112.75,767280.18,522,95
+"Splitgate: Arena Warfare","2019","Multiplayer Online Battle Arena",50000,50000,64,2
+"Teeworlds","2007","Multiplayer Online Battle Arena",0,0,0,0
+"Vainglory","2014","Multiplayer Online Battle Arena",797421.19,100595.32,247,35
+"Blade & Soul","2012","Role-Playing Game",409355.52,0,51,5
+"Guild Wars 2","2012","Role-Playing Game",476005.5,126005.5,152,57
+"Old School Runescape","2013","Role-Playing Game",422504.2,394004.2,66,22
+"Red Stone","2004","Role-Playing Game",58000,0,12,2
+"Stardew Valley","2016","Role-Playing Game",54250,54250,56,2
+"World of WarCraft","2004","Role-Playing Game",4957837.61,341948.7,413,118
+"Acceleration of SUGURI 2","2018","Fighting Game",310,100,6,2
+"Akatsuki Blitzkampf","2007","Fighting Game",20,20,3,1
+"Aquapazza: Aquaplus Dream Match","2011","Fighting Game",245,0,5,2
+"Arcana Heart 3","2009","Fighting Game",1000,0,4,1
+"Arcana Heart 3: Love Max Six Stars!!!!!","2014","Fighting Game",570,50,8,4
+"Arcana Heart 3: LOVE MAX!!!!!","2013","Fighting Game",410,0,6,2
+"ARMS","2017","Fighting Game",18248.09,4986.16,95,82
+"Asuka 120% LimitOver BURNING Fest.","1998","Fighting Game",10,10,3,1
+"Attack on Titan Tribute Game","2013","Fighting Game",108650,108650,21,15
+"BlazBlue: Calamity Trigger","2008","Fighting Game",35,0,3,1
+"BlazBlue: Central Fiction","2015","Fighting Game",78879.26,296.84,86,38
+"BlazBlue: Chronophantasma","2012","Fighting Game",37020.58,0,63,15
+"BlazBlue: Chronophantasma Extend","2015","Fighting Game",4918.77,0,28,11
+"BlazBlue: Continuum Shift Extend","2011","Fighting Game",0,0,3,1
+"BlazBlue: Continuum Shift II","2010","Fighting Game",24591.01,0,14,5
+"BlazBlue: Cross Tag Battle","2018","Fighting Game",82800.03,0,89,31
+"Brawlhalla","2015","Fighting Game",1159994.09,467993.79,497,387
+"Brawlout","2017","Fighting Game",0,0,0,0
+"Breakers Revenge","1998","Fighting Game",16,16,3,1
+"Capcom vs. SNK","2000","Fighting Game",140,0,6,2
+"Capcom vs. SNK 2","2001","Fighting Game",24186.79,0,36,19
+"Chaos Code: New Sign of Catastrophe","2013","Fighting Game",140,0,3,1
+"Dead or Alive 4","2005","Fighting Game",497745.31,0,45,13
+"Dead or Alive 5","2012","Fighting Game",0,0,4,2
+"Dead or Alive 5 Ultimate","2013","Fighting Game",0,0,37,7
+"Dead or Alive 5: Last Round","2015","Fighting Game",8163.82,0,45,19
+"Dead or Alive 6","2019","Fighting Game",64232.54,1010,63,18
+"Dead or Alive Ultimate","2004","Fighting Game",30000,0,3,1
+"Def Jam: Fight for NY","2004","Fighting Game",170,170,3,1
+"Dengeki Bunko: Fighting Climax","2014","Fighting Game",60,0,3,1
+"Dengeki Bunko: Fighting Climax Ignition","2015","Fighting Game",2852.8,185.5,31,10
+"Digimon Rumble Arena","2001","Fighting Game",70,70,3,1
+"Divekick","2013","Fighting Game",5840,0,27,11
+"Dragon Ball FighterZ","2018","Fighting Game",337985.4,850,159,73
+"Dragon Ball Z: Budokai 3","2004","Fighting Game",204.06,0,3,1
+"Duck Game","2014","Fighting Game",250,250,3,1
+"Eternal Fighter Zero","2000","Fighting Game",1311.6,1311.6,7,2
+"Fantasy Strike","2019","Fighting Game",3860,1250,18,3
+"Fight of Animals","2019","Fighting Game",580.68,580.68,7,3
+"Fighter's History Dynamite","1994","Fighting Game",195,0,3,1
+"Fighting EX Layer","2018","Fighting Game",1642.96,10,16,7
+"Garou: Mark of the Wolves","1999","Fighting Game",658.71,145,13,4
+"Guilty Gear","1998","Fighting Game",32,0,3,1
+"Guilty Gear Xrd -REVELATOR-","2016","Fighting Game",36437.43,0,61,19
+"Guilty Gear Xrd -SIGN-","2014","Fighting Game",37445.66,0,80,38
+"Guilty Gear Xrd REV 2","2017","Fighting Game",116634.7,80,101,49
+"Guilty Gear XX","2002","Fighting Game",0,0,5,2
+"Guilty Gear XX #Reload","2003","Fighting Game",0,0,3,1
+"Guilty Gear XX Accent Core","2007","Fighting Game",10365,0,33,4
+"Guilty Gear XX Accent Core Plus","2008","Fighting Game",0,0,3,1
+"Guilty Gear XX Accent Core Plus R","2012","Fighting Game",4640,0,61,19
+"Guilty Gear XX Slash","2005","Fighting Game",10250,0,6,2
+"Hokuto no Ken","2005","Fighting Game",145,0,3,1
+"Hyper Street Fighter II","2003","Fighting Game",10250,0,8,1
+"HYPERFIGHT","2019","Fighting Game",50,50,3,1
+"Injustice 2","2017","Fighting Game",835742.83,1432.59,81,37
+"Injustice: Gods Among Us","2013","Fighting Game",35176.89,0,101,117
+"JoJo's Bizarre Adventure: Heritage for the Future","1999","Fighting Game",284.99,284.99,5,2
+"Kill la Kill the Game: IF","2019","Fighting Game",920,150,12,4
+"Killer Instinct (2013)","2013","Fighting Game",224466.96,50,128,53
+"King of Fighters 2002 Unlimited Match","2009","Fighting Game",760,0,6,2
+"King of Fighters 98","1998","Fighting Game",7945.57,0,7,3
+"King of Fighters XI","2005","Fighting Game",25,0,3,1
+"King of Fighters XIII","2010","Fighting Game",44724.28,0,107,43
+"King of Fighters XIV","2016","Fighting Game",72902.09,860,90,37
+"Koihime Enbu","2016","Fighting Game",1665,50,13,6
+"Lethal League Blaze","2018","Fighting Game",2172.9,1056.15,15,8
+"Maiden & Spell","2020","Fighting Game",200,200,3,1
+"Marvel vs. Capcom 2","2000","Fighting Game",39060,10,60,28
+"Marvel vs. Capcom 3","2011","Fighting Game",22343.62,0,38,12
+"Marvel vs. Capcom: Infinite","2017","Fighting Game",42482.12,0,49,19
+"Melty Blood: Actress Again","2009","Fighting Game",0,0,10,2
+"Melty Blood: Actress Again Current Code","2010","Fighting Game",8587.76,2452.76,48,18
+"Million Arthur: Arcana Blood","2017","Fighting Game",7430,10,9,3
+"Mordhau","2019","Fighting Game",16623,16623,40,3
+"Mortal Kombat 11","2019","Fighting Game",392602.33,38000,158,37
+"Mortal Kombat 9","2011","Fighting Game",136891.67,0,67,26
+"Mortal Kombat vs. DC Universe","2008","Fighting Game",0,0,3,1
+"Mortal Kombat X","2015","Fighting Game",523532.42,0,100,62
+"Mortal Kombat XL","2016","Fighting Game",129203.79,0,50,17
+"Mystery Game Tournament","2019","Fighting Game",10995,0,56,8
+"Naruto Shippuden: Ultimate Ninja Storm 4","2016","Fighting Game",4550,2550,7,5
+"Naruto: Gekitou Ninja Taisen! 4","2005","Fighting Game",200,200,3,1
+"Nitroplus Blasterz: Heroines Infinite Duel","2015","Fighting Game",1994,0,10,4
+"Persona 4 Arena","2012","Fighting Game",6336.63,0,42,11
+"Persona 4 Arena Ultimax","2013","Fighting Game",18828.16,0,58,19
+"Pocket Rumble","2016","Fighting Game",60,60,3,1
+"Pokkén Tournament","2016","Fighting Game",77016.66,45,62,25
+"Pokkén Tournament DX","2017","Fighting Game",20275.4,211.4,43,26
+"Power Instinct: Matrimelee","2002","Fighting Game",50,50,3,1
+"Power Rangers: Battle for the Grid","2019","Fighting Game",1390,860,11,4
+"Power Rangers: Legacy Wars","2017","Fighting Game",4178.55,0,2,1
+"Project Justice","2000","Fighting Game",165,0,3,1
+"Project M","2010","Fighting Game",205292.09,0,560,335
+"Project Plus","2019","Fighting Game",20,20,3,1
+"Punch Planet","2017","Fighting Game",300,300,3,1
+"Rising Thunder","2015","Fighting Game",1000,0,3,1
+"Rivals of Aether","2015","Fighting Game",37787,1050,43,15
+"Roof Rage","2019","Fighting Game",50,50,3,1
+"Sailor Moon S","1995","Fighting Game",3201.19,10,18,11
+"Samurai Shodown (2019)","2019","Fighting Game",68009.91,0,58,15
+"Samurai Shodown III","1995","Fighting Game",30,30,3,1
+"Samurai Shodown V Special","2004","Fighting Game",590.57,100.46,15,5
+"Schwarzerblitz","2020","Fighting Game",100,100,3,1
+"Sekiro: Shadows Die Twice","2019","Fighting Game",19596,19596,20,1
+"Shovel Knight Showdown","2019","Fighting Game",60,0,3,1
+"Shrek SuperSlam","2005","Fighting Game",50,50,3,1
+"Skullgirls","2012","Fighting Game",300,0,3,1
+"Skullgirls 2nd Encore","2015","Fighting Game",18321,450,34,12
+"Skullgirls Encore","2014","Fighting Game",9155.4,0,37,13
+"Slap City","2018","Fighting Game",300,300,3,1
+"SLAYERS FOR HIRE","2020","Fighting Game",500,500,8,1
+"SNK Heroines: Tag Team Frenzy","2018","Fighting Game",430,0,3,1
+"Soul Calibur II","2003","Fighting Game",4790,0,15,7
+"Soul Calibur II HD Online","2013","Fighting Game",945.41,0,29,5
+"Soul Calibur IV","2008","Fighting Game",100260,0,4,3
+"Soul Calibur V","2012","Fighting Game",60008.54,0,78,26
+"Soul Calibur VI","2018","Fighting Game",109895.21,15100,101,49
+"Street Fighter Alpha 2","1996","Fighting Game",1390,0,17,8
+"Street Fighter Alpha 3","1998","Fighting Game",300,0,15,4
+"Street Fighter EX2 Plus","1999","Fighting Game",350,0,5,2
+"Street Fighter III: 3rd Strike","1999","Fighting Game",49378.86,100,83,35
+"Street Fighter IV","2009","Fighting Game",7938.22,0,41,12
+"Street Fighter V","2016","Fighting Game",2202726.43,0,233,120
+"Street Fighter V: Arcade Edition","2018","Fighting Game",2017135.95,850,229,100
+"Street Fighter V: Champion Edition","2020","Fighting Game",33628.66,0,10,2
+"Street Fighter X Tekken","2012","Fighting Game",84090.64,861.3,115,93
+"Super Smash Bros.","1999","Fighting Game",68082.81,40,234,123
+"Super Smash Bros. Brawl","2008","Fighting Game",246715.83,0,499,344
+"Super Smash Bros. for Wii U","2014","Fighting Game",1511976.47,1900,1264,1022
+"Super Smash Bros. Melee","2001","Fighting Game",3210134.19,31390.19,1878,2608
+"Super Smash Bros. Ultimate","2018","Fighting Game",1311867.69,104933.02,1879,1197
+"Super Street Fighter II Turbo","1994","Fighting Game",23678.05,0,104,44
+"Super Street Fighter II Turbo HD Remix","2008","Fighting Game",16360,0,29,8
+"Super Street Fighter IV","2010","Fighting Game",20877.3,0,40,16
+"Super Street Fighter IV Arcade Edition","2010","Fighting Game",343878.08,0,153,202
+"Tatsunoko vs. Capcom: Ultimate All-Stars","2010","Fighting Game",1330.81,0,13,8
+"Teenage Mutant Ninja Turtles: Tournament Fighters","1993","Fighting Game",820,0,7,2
+"Tekken 4","2001","Fighting Game",12500,0,4,4
+"Tekken 5","2004","Fighting Game",10250,0,10,9
+"Tekken 5: Dark Resurrection","2006","Fighting Game",12180,0,18,5
+"Tekken 6","2007","Fighting Game",119874.64,0,59,30
+"Tekken 7","2015","Fighting Game",1687721.25,18542.6,425,235
+"Tekken Tag Tournament","1999","Fighting Game",0,0,7,4
+"Tekken Tag Tournament 2","2011","Fighting Game",125965.7,0,142,138
+"The Last Blade 2","1998","Fighting Game",20,20,3,1
+"Them's Fightin' Herds","2018","Fighting Game",580,50,10,4
+"Touhou Hisoutensoku ~ Choudokyuu Ginyoru no Nazo o Oe","2009","Fighting Game",1555.01,1335.01,12,3
+"TowerFall: Ascension","2013","Fighting Game",0,0,0,0
+"Ultimate Marvel vs. Capcom 3","2011","Fighting Game",116733.16,0,190,169
+"Ultimate Mortal Kombat 3","1995","Fighting Game",150,0,6,2
+"Ultra Fight Da! Kyanta 2","2019","Fighting Game",320,0,3,1
+"Ultra Street Fighter IV","2014","Fighting Game",816713.46,40,231,229
+"Umineko: Golden Fantasia","2010","Fighting Game",140,50,6,2
+"Under Night In-Birth EXE: Late","2014","Fighting Game",6025.76,0,52,23
+"Under Night In-Birth EXE: Late[st]","2015","Fighting Game",46553.33,0,98,34
+"Under Night In-Birth Exe:Late[cl-r]","2020","Fighting Game",1050,50,7,2
+"Vampire Savior","1997","Fighting Game",9185.95,1147.21,32,18
+"Virtua Fighter 4: Evolution","2002","Fighting Game",0,0,6,3
+"Virtua Fighter 5","2007","Fighting Game",39830,0,14,7
+"Virtua Fighter 5 Final Showdown","2010","Fighting Game",573.77,0,28,6
+"WWE 2K20","2019","Fighting Game",50000,50000,20,2
+"Asphalt 4","2008","Racing",29500,0,5,2
+"Asphalt 9: Legends","2018","Racing",51520,0,5,2
+"Assetto Corsa","2014","Racing",191851.7,408.6,81,31
+"Assetto Corsa Competizione","2018","Racing",1649,1649,8,9
+"Dirt Rally 2.0","2019","Racing",10000,0,5,2
+"F1 2018","2018","Racing",2e+05,0,21,1
+"F1 2019","2019","Racing",538047.38,0,25,2
+"Forza Motorsport 2","2007","Racing",222000,0,17,2
+"Forza Motorsport 3","2009","Racing",11000,0,3,2
+"Forza Motorsport 4","2011","Racing",132.37,0,2,1
+"Forza Motorsport 6","2015","Racing",66350,2400,35,9
+"Forza Motorsport 7","2017","Racing",800200,204000,118,12
+"Gran Turismo 3: A-Spec","2001","Racing",3250,0,4,2
+"Gran Turismo 4","2004","Racing",44000,0,5,2
+"Gran Turismo Sport","2017","Racing",25564,0,28,6
+"GRID (2019)","2019","Racing",218.75,0,3,1
+"iRacing.com","2008","Racing",1198206.13,1069212.03,759,94
+"KartRider","2004","Racing",567366.35,0,76,20
+"Live for Speed","2003","Racing",9219.14,0,16,8
+"Mad Skills Motocross 2","2017","Racing",20163,0,12,1
+"Mario Kart 8 Deluxe","2017","Racing",1754.44,0,30,4
+"NASCAR Heat 4","2019","Racing",200500,200500,34,5
+"NASCAR Thunder 2002","2001","Racing",7679.25,0,0,1
+"NASCAR Thunder 2003","2002","Racing",5933.5,0,0,1
+"Need for Speed Carbon","2006","Racing",36322.58,0,12,4
+"Need for Speed: Most Wanted","2005","Racing",35694.54,0,18,7
+"Need for Speed: ProStreet","2007","Racing",32208.46,0,12,3
+"Need for Speed: Shift","2009","Racing",10500,0,3,1
+"Need for Speed: Underground","2003","Racing",35000,0,3,1
+"Need for Speed: Underground 2","2004","Racing",35629.48,0,8,3
+"Project Cars","2015","Racing",67908.21,57305.5,50,113
+"Project Cars 2","2017","Racing",66150,8000,37,22
+"Project Gotham Racing 2","2003","Racing",35000,0,4,2
+"Project Gotham Racing 3","2005","Racing",297286.85,0,33,10
+"Project Gotham Racing 4","2007","Racing",25208.46,0,5,4
+"RaceRoom Racing Experience","2013","Racing",102918.7,28810,143,18
+"rFactor","2005","Racing",15083.56,15083.56,51,4
+"rFactor 2","2013","Racing",1222855.26,160308.32,196,42
+"Speedrunners","2016","Racing",50,50,3,1
+"Trackmania (2020)","2020","Racing",45655.77,45655.77,70,29
+"TrackMania 2: Canyon","2011","Racing",22098.74,5539.7,21,36
+"TrackMania 2: Stadium","2013","Racing",198363.85,90723.54,345,281
+"Trackmania 2: Valley","2013","Racing",779.34,0,6,2
+"TrackMania Nations","2006","Racing",93381.66,40000,18,8
+"TrackMania Nations Forever","2008","Racing",167386.65,20831.9,109,73
+"Trackmania Turbo","2016","Racing",679.41,679.41,6,2
+"Trackmania United","2006","Racing",1027.5,0,3,1
+"Trackmania United Forever","2008","Racing",0,0,0,0
+"Trials Fusion","2014","Racing",0,0,0,0
+"Turbo Racing League","2013","Racing",1e+06,5e+05,16,9
+"Carom 3D","1999","Sports",60500,0,11,4
+"Dream league Soccer","2019","Sports",0,0,0,0
+"FIFA 03","2002","Sports",54066.44,0,10,3
+"FIFA 04","2003","Sports",40000,0,3,3
+"FIFA 05","2004","Sports",57728.01,0,5,8
+"FIFA 06","2005","Sports",112464.53,0,23,12
+"FIFA 07","2006","Sports",237812.23,0,42,13
+"FIFA 08","2007","Sports",207129.94,0,68,17
+"FIFA 09","2008","Sports",121618.34,6296.92,52,19
+"FIFA 10","2009","Sports",117026.71,26879.5,64,48
+"FIFA 11","2010","Sports",93983.77,8829.75,72,78
+"FIFA 12","2011","Sports",54431.52,7152.1,53,66
+"FIFA 13","2012","Sports",458427.82,10232.23,53,62
+"FIFA 14","2013","Sports",96347.81,8970.33,57,69
+"FIFA 15","2014","Sports",144373.99,27934.84,169,352
+"FIFA 16","2015","Sports",117828.11,944.17,61,28
+"FIFA 17","2016","Sports",1482612.63,0,156,48
+"FIFA 18","2017","Sports",2233697.69,12430.61,238,48
+"FIFA 19","2018","Sports",3242642.34,9614.51,303,48
+"FIFA 20","2019","Sports",1144673.72,102282.73,248,39
+"FIFA 2000","1999","Sports",50000,0,4,1
+"FIFA 2001","2000","Sports",46000,0,9,2
+"FIFA 2002 World Cup","2002","Sports",43000,0,8,1
+"FIFA Online 3","2012","Sports",1434341.9,0,89,9
+"FIFA Online 4","2018","Sports",679240,0,84,4
+"Guitar Hero 5","2009","Sports",10500,0,3,1
+"Guitar Hero III: Legends of Rock","2007","Sports",19000,0,8,2
+"Guitar Hero: World Tour","2008","Sports",0,0,0,0
+"Just Dance 2014","2014","Sports",0,0,3,1
+"Madden NFL 19","2018","Sports",125000,0,5,3
+"Madden NFL 2004","2003","Sports",1500,0,3,1
+"Madden NFL 2006","2005","Sports",1e+05,0,1,1
+"Madden NFL 2007","2006","Sports",1e+05,0,1,1
+"Madden NFL 2008","2007","Sports",1e+05,0,1,1
+"Madden NFL 2009","2008","Sports",1e+05,0,1,1
+"Madden NFL 2013","2012","Sports",4e+05,0,8,1
+"Madden NFL 2016","2015","Sports",50000,0,8,1
+"Madden NFL 2017","2016","Sports",1004000,0,42,5
+"Madden NFL 2018","2017","Sports",279676.62,259000,40,3
+"Mario Tennis Aces","2018","Sports",61.3,61.3,6,2
+"NBA 2K Online","2012","Sports",0,0,0,0
+"NBA 2K18","2017","Sports",1e+06,0,91,4
+"NBA 2K19","2018","Sports",0,0,0,0
+"NHL '94","1993","Sports",3818.56,0,25,8
+"NHL 12","2011","Sports",702.93,0,6,2
+"NHL 13","2012","Sports",70000,0,1,1
+"NHL 14","2013","Sports",3023.96,0,6,3
+"NHL 15","2014","Sports",3157.16,0,3,3
+"NHL 17","2016","Sports",0,0,0,0
+"NHL 18","2017","Sports",102700,12700,20,6
+"NHL 19","2018","Sports",22566.67,3000,10,8
+"Pro Evolution Soccer 2008","2007","Sports",2084.15,0,6,3
+"Pro Evolution Soccer 2009","2008","Sports",1395.97,1395.97,5,2
+"Pro Evolution Soccer 2013","2012","Sports",0,0,0,0
+"Pro Evolution Soccer 2014","2013","Sports",29410.25,0,4,1
+"Pro Evolution Soccer 2015","2014","Sports",26544.76,0,3,1
+"Pro Evolution Soccer 2016","2015","Sports",27243.84,0,17,6
+"Pro Evolution Soccer 2017","2016","Sports",514697.71,0,39,16
+"Pro Evolution Soccer 2018","2017","Sports",250000,0,20,3
+"Pro Evolution Soccer 2019","2019","Sports",216000,0,25,2
+"Pro Evolution Soccer 3","2003","Sports",25000,0,8,2
+"Pro Evolution Soccer 4","2004","Sports",40550.64,0,11,2
+"Pro Evolution Soccer 5","2005","Sports",32000,0,4,1
+"Pro Evolution Soccer 6","2006","Sports",20216.82,0,5,2
+"Rocket League","2015","Sports",9171818.72,5087953.17,1086,1087
+"Soccer Stars","2018","Sports",0,0,0,0
+"Artifact","2018","Collectible Card Game",119168.54,107532.73,275,166
+"Artifact 2.0","2020","Collectible Card Game",155,155,3,3
+"Faeria","2017","Collectible Card Game",4100,4100,12,5
+"Gwent","2016","Collectible Card Game",841757.17,86366,320,110
+"Hand of the Gods","2017","Collectible Card Game",94434.2,21934.2,48,36
+"Hearthstone","2014","Collectible Card Game",23098378.24,4616198.67,2423,898
+"Legends of Runeterra","2020","Collectible Card Game",118481.03,118481.03,30,5
+"Magic: The Gathering Arena","2018","Collectible Card Game",5512000,158000,232,36
+"Magic: The Gathering Online","2002","Collectible Card Game",1218000,0,130,10
+"Pokémon TCG","1996","Collectible Card Game",0,0,0,0
+"Shadowverse","2016","Collectible Card Game",3211177.09,130800,239,42
+"Shardbound","2017","Collectible Card Game",0,0,0,0
+"The Elder Scrolls: Legends","2017","Collectible Card Game",5000,0,3,1
+"Yu-Gi-Oh! Duel Links","2016","Collectible Card Game",48746.72,48746.72,328,219
+"Catherine","2011","Puzzle Game",1545,75,11,7
+"Catherine: Full Body","2019","Puzzle Game",185,0,3,1
+"Cultris II","2011","Puzzle Game",190.95,190.95,3,1
+"Jstris","2014","Puzzle Game",225,225,8,1
+"Magical Drop III","1997","Puzzle Game",130,0,3,1
+"Pac-man","1981","Puzzle Game",0,0,0,0
+"Panel Attack","2020","Puzzle Game",40,40,3,1
+"Puyo Puyo Champions","2019","Puzzle Game",2482.3,410.5,14,5
+"Puyo Puyo Tetris","2014","Puzzle Game",3422.84,1805.09,31,16
+"Tetr.io","2020","Puzzle Game",2514.5,2514.5,13,9
+"Tetris","1989","Puzzle Game",16026.38,526.38,27,7
+"Tetris Ultimate","2014","Puzzle Game",221,0,3,1
+"Twinkle Star Sprites","1996","Puzzle Game",100,100,3,1
+"Wise Star 2","2008","Puzzle Game",12000,0,3,1
+"Apex Legends","2019","Battle Royale",4273351.69,2258930.94,1099,170
+"Fall Guys","2020","Battle Royale",201000,201000,234,4
+"Fortnite","2017","Battle Royale",97508425,55383802.46,4347,660
+"Free Fire","2017","Battle Royale",1006392.23,80150,291,14
+"H1Z1","2016","Battle Royale",2067122,0,119,13
+"PLAYERUNKNOWN'S BATTLEGROUNDS Mobile","2017","Battle Royale",3764853.07,1111350,1055,39
+"PLAYERUNKNOWN’S BATTLEGROUNDS","2017","Battle Royale",23710378.57,4008852.71,2754,294
+"Radical Heights","2018","Battle Royale",120000,120000,12,2
+"Ring of Elysium","2018","Battle Royale",70000,70000,9,4
+"Rocket Arena","2020","Battle Royale",1e+05,1e+05,24,3
+"Rules Of Survival","2017","Battle Royale",0,0,0,0
+"Gears 5","2019","Third-Person Shooter",1223000,543000,140,18
+"Gears of War","2006","Third-Person Shooter",252195.57,0,33,18
+"Gears of War 2","2008","Third-Person Shooter",135000,0,0,5
+"Gears of War 3","2011","Third-Person Shooter",7255.81,2700,13,4
+"Gears of War 4","2016","Third-Person Shooter",3087285,32285,135,41
+"Gears of War: Ultimate Edition","2015","Third-Person Shooter",170000,0,39,3
+"The Division 2","2019","Third-Person Shooter",27250,27250,40,2
