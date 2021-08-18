@@ -1,8 +1,10 @@
 # Datasets
 A bunch of some 200 datasets. You can call it mini-kaggle :)
+#### Click [here](https://drive.google.com/drive/folders/1QnVd_0t3NW3GiG8I6Ly1ypyablUawJmO?usp=sharing)
+
 <div align="center"><span><img height="500" width="500" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Data_types_-_en.svg/1200px-Data_types_-_en.svg.png"/>    <img height="500" width="500" src="https://miro.medium.com/max/430/0*rNapZQnyP5EBLYli.png"></span></div>
 
 
 ### Want to download individual file?
 
-#### Click [here](https://drive.google.com/drive/folders/1QnVd_0t3NW3GiG8I6Ly1ypyablUawJmO?usp=sharing)
+
