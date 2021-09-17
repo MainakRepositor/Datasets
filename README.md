@@ -16,7 +16,8 @@ A bunch of some 200 datasets. You can call it mini-kaggle :)
   <li>Make a folder in your desktop</li>
   <li>Open that folder in your favourite code editor and make a simple python file inside the folder. Name it as you please.</li>
   <li>Copy this code</li>
-  
+</ol>
+
   ``` import requests
   import pandas as pd
   url = '{(copied url here)}' 
@@ -25,8 +26,5 @@ A bunch of some 200 datasets. You can call it mini-kaggle :)
       file.write(res.content)
   download_file_name = pd.read_csv('download_file_name.csv') ```
   
-  <li>Run the python file</li>
-  <li>The csv file will get downloaded within sometime, depending upon file size</li>
-  <li>Now you are ready the use it locally!!</li>
-</ol>
+
   
